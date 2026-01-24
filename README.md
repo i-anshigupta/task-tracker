@@ -1,6 +1,8 @@
 # 📝 Task Tracker App
 
-A simple and interactive **Task Tracker / Kanban Board** built using **HTML, CSS, and JavaScript**.  
+A simple and interactive **Task Tracker / Kanban Board** built using **HTML, CSS, and JavaScript**. 
+
+ 
 It allows users to manage tasks across different stages with drag-and-drop functionality.
 
 ---
@@ -26,4 +28,7 @@ It allows users to manage tasks across different stages with drag-and-drop funct
 ---
 
 ## 📂 Project Structure
+
+
+
 

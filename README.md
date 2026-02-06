@@ -18,7 +18,7 @@ It allows users to manage tasks across different stages with drag-and-drop funct
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack Used
 
 - HTML5  
 - CSS3  

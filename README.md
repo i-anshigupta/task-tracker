@@ -25,6 +25,7 @@ It allows users to manage tasks across different stages with drag-and-drop funct
 - JavaScript  
 - LocalStorage API  
 
+
 ---
 
 
